@@ -232,3 +232,6 @@ tool completely — there is no uninstaller and no registry entry.
 > 🧭 **Editor's note:** everything above is tested on the current 2026 build. If a step looks different on your machine, open an issue.
 
 *cyberpunk-2077-engine · Updated 2026-10-24 · Shared under the MIT License*
+
+
+*Last updated: 2026-10-24*
